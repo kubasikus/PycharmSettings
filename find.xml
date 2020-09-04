@@ -9,8 +9,8 @@
     <mask>*.pyw</mask>
     <mask>*</mask>
     <mask>*yaml</mask>
-    <mask>*.yaml</mask>
     <mask>*.conf</mask>
     <mask>*.py</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
