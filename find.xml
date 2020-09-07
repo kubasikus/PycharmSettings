@@ -10,7 +10,7 @@
     <mask>*</mask>
     <mask>*yaml</mask>
     <mask>*.conf</mask>
-    <mask>*.py</mask>
     <mask>*.yaml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
