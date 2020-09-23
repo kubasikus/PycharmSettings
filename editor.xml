@@ -12,9 +12,5 @@
       <option name="FONT_TYPE" value="2" />
     </pattern>
     <pattern pattern="\bfixme\b.*" />
-    <pattern useCustomColors="true" pattern="\bdone\b.*">
-      <option name="FOREGROUND" value="31ff2e" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
   </component>
 </application>
