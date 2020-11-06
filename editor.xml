@@ -6,6 +6,9 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern useCustomColors="true" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="ff1713" />
