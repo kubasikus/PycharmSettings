@@ -2,9 +2,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="SLI framework statsd exporter example" type="AUTO_DETECTED" />
-      <mapping pattern="task6_input" type="AUTO_DETECTED" />
-      <mapping pattern="SLI framework statsd example.md" type="AUTO_DETECTED" />
       <mapping pattern="task5_input" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="task3_input" type="PLAIN_TEXT" />
@@ -15,6 +12,11 @@
       <mapping pattern="push_to_kibana" type="Python" />
       <mapping pattern="disemwovel" type="Python" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="SLI framework statsd example.md" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="SLI framework statsd exporter example" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="task6_input" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="task7.py" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="task7_input" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
