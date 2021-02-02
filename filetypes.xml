@@ -9,6 +9,7 @@
       <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping pattern="task4_input" type="PLAIN_TEXT" />
       <mapping pattern=".goals.list" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="push_to_kibana" type="Python" />
       <mapping pattern="disemwovel" type="Python" />
